@@ -20,8 +20,8 @@ email: zilongxuan001@163.com
 description: >- # this means to ignore newlines until "baseurl:"
  
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  zilongxuan001
+url: "https://www.jianshu.com/u/8ebcc6448ffe" # the base hostname & protocol for your site, e.g. http://example.com
+简书
 
 # Build settings
 markdown: kramdown
