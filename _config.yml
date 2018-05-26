@@ -52,5 +52,8 @@ friends: [
     },{
         title: "简书·文人无双",
         href: "https://www.jianshu.com/u/8ebcc6448ffe"
+    },{
+        title: "我的编程笔记",
+        href: "https://github.com/zilongxuan001/LearnFreecode/wikie"
     }
 ]
