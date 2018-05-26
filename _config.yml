@@ -15,19 +15,35 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 title: 知行合一
+SEOTitle: 追智者的博客 
 email: zilongxuan001@163.com
 description: >- # this means to ignore newlines until "baseurl:"
- 
+url: "http://zilongxuan001.github.io" 
+
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "Goals determine what you going to be!"
+
+# SNS settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://github.com/zilongxuan001/zilongxuan001.github.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: zilongxuan001
+jianshu_username: 8ebcc6448ffe
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  
+# Featured Tags
+featured-tags: true                     # 是否使用首页标签
+featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+
+
+  
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -40,3 +56,20 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Friends
+friends: [
+    {
+        title: "WY",
+        href: "http://zhengwuyang.com"
+    },{
+        title: "简书·BY",
+        href: "http://www.jianshu.com/u/e71990ada2fd"
+    },{
+        title: "Apple",
+        href: "https://apple.com"
+    },{
+        title: "Apple Developer",
+        href: "https://developer.apple.com/"
+    }
+]
