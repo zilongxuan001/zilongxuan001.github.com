@@ -1,10 +1,10 @@
 # Site settings
 
-title:  Learner
-SEOTitle: 追智者的博客 | Leaner
+title:  心际花园
+SEOTitle: 心际花园 | 奋翼
 email: zilongxuan001@163.com
 description: "Stay hungry, stay foolish!"
-keyword: "Leaner, 追智者"
+keyword: "心际花园, 奋翼"
 url: "http://zilongxuan001.github.io" 
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/zilongxuan001/zilongxuan001.github.io.git" # you code repository
@@ -55,5 +55,9 @@ friends: [
     },{
         title: "我的编程笔记",
         href: "https://github.com/zilongxuan001/LearnFreecode/wiki"
+    }
+    ,{
+        title: "CSDN",
+        href: "https://blog.csdn.net/zilongxuan008?spm=1000.2115.3001.5343"
     }
 ]
