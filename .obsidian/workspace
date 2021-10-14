@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "fd0eafef38a1f6f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "48f67c97db99bd4f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2018-11-28-等待 .md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d490db437a1a6aac",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0327a9711972f0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "faff74996952422d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ddc9e2ab6a76be2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "26ffd927960a24ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "441b735baaaf7383",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ab48f2bf007c4b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2018-11-28-等待 .md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "48f67c97db99bd4f",
+  "lastOpenFiles": [
+    "_posts/2018-11-28-等待 .md",
+    "_posts/2019-2-20-彻底掌握子弹笔记.md",
+    "_posts/2018-11-23-论文分析的程序和技巧.md",
+    "_posts/2018-07-04-做练习的方式.md",
+    "_posts/2018-07-04-如何建立wiki.md",
+    "_posts/2018-05-27-如何构建学科的资料.md",
+    "_posts/2018-05-27-你的想法不如鸡.md",
+    "_posts/2018-05-26-如何用issue写卡片.md",
+    "_posts/2018-05-26-搭建github博客.md",
+    "_posts/2018-05-20-滁州寻醉翁.md"
+  ]
+}
